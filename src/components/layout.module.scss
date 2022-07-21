@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    border: 4px solid black;
+
+}
+
+.content {
+    flex-grow: 1;
+    border: 4px solid aqua;
+
+}
+
+.main-content {
+    margin: 0 auto;
+    max-width: 750px;
+    padding: 3rem 1rem 4rem;
+    border: 4px solid firebrick;
+}
+
